@@ -1,0 +1,36 @@
+.Albumcontainer{
+    height: auto;
+    margin: auto;
+    box-sizing: border-box;
+    box-shadow: 2px black;
+    cursor: pointer;
+}
+.card{
+    border: 1px solid burlywood;
+    border-radius: 5px;
+    padding: 20px;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    background: rgb(255, 255, 255, 0.26);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    margin-left: 10px;
+    margin-right: 10px;
+    max-width: 30%;
+
+}
+.title{
+
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    background: rgba(255, 255, 255, 0.26);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+body {
+    font-family: 'Times New Roman', serif;
+    font-size: medium;
+    font-weight: 500;
+  }
+  
